@@ -15,3 +15,12 @@ https://www.w3schools.com/jsref/prop_text_value.asp
 
 "How to Convert a String to a Number in Javascript" from freecodecamp
 https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/
+
+Password generator tutorial
+https://webdesign.tutsplus.com/tutorials/build-a-configurable-random-password-generator-with-javascript--cms-93262
+
+Math Random w3 Schools
+https://www.w3schools.com/js/js_random.asp
+
+
+worked with alex, sean and chuyi
