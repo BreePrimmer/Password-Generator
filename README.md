@@ -22,5 +22,13 @@ https://webdesign.tutsplus.com/tutorials/build-a-configurable-random-password-ge
 Math Random w3 Schools
 https://www.w3schools.com/js/js_random.asp
 
+Window Confirm w3 schools
+https://www.w3schools.com/jsref/met_win_confirm.asp
 
-worked with alex, sean and chuyi
+
+
+Random Password Generator using javascript
+https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+
+
+worked with Trey, a TA, and classmates alex, sean and chuyi
