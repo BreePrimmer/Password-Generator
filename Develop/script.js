@@ -73,6 +73,7 @@ function generatePassword() {
   console.log(newPass)
 }
 
+
 // // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
@@ -84,7 +85,7 @@ generateBtn.addEventListener("click", writePassword);
   // var subPassword = passwordArray.slice(-chosenChar.length)
   
   // for loop while i is less than chosenChar.length add chosenChar i to password string (refer to line above)
-  // for (i = 0; i <= chosenChar.length; i++) {
+  // while (i = 0; i <= chosenChar.length; i++) {
   //   subPassword + chosenChar[i]
   // }
   // console.log(passwordArray)
